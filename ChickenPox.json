@@ -1,0 +1,31 @@
+{
+  "id": "97dbe27f-06b0-43dc-95a0-3f5b2d5902ed",
+  "name": "ChickenPox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Chicken pox like herpes zoster is caused by the varicella zoster virus. Lesions are preceded by\nfever and characteristically vesicular in different stages of development. It is self limiting."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7c798f38-1b8d-47aa-a165-cbc94a1ec788",
+    "data": [
+      {
+        "text": "is there any medicines for the Bipolar Diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1af0d827-9c8a-4e49-8176-3ab697b7ad25",
+    "data": [
+      {
+        "text": "Medicine for the Bipolar Diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dede135e-db2b-4136-a147-a545fbf3abeb",
+    "data": [
+      {
+        "text": "What are the medicines for the Bipolar Diseases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

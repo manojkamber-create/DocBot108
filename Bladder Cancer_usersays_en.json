@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3f515db3-4a0c-45e8-90dc-b263559141e1",
+    "data": [
+      {
+        "text": "Bladder Cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d35556a4-ebed-45b1-9160-3df757385b05",
+    "data": [
+      {
+        "text": "Doctor i had a Bladder Cancer ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b557f3b-c3bc-460f-b55d-29cca7457900",
+    "data": [
+      {
+        "text": "May i know about the Bladder Cancer Doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

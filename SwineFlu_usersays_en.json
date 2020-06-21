@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2e076e45-c634-41fb-8cc1-c0e9a496a4e9",
+    "data": [
+      {
+        "text": "I had a Swine flu Doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84b8c0c9-f16b-478a-b471-884a411e581b",
+    "data": [
+      {
+        "text": "What is Swine Flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

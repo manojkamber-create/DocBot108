@@ -1,0 +1,31 @@
+{
+  "id": "248b1bf5-1823-4471-8c28-66a01441122f",
+  "name": "Fishoilsideeffect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Get emergency medical help if you have any of these signs of an allergic reaction to Fish Oil: hives; difficulty breathing; swelling of your face, lips, tongue, or throat. Stop using Fish Oil and call your doctor at once if you have any of these serious side effects:\n\nfever, chills, body aches, flu symptoms;\n\nchest pain; or\n\nuneven heartbeats.\n\nLess serious Fish Oil side effects may include:\n\nback pain;\n\nunusual or unpleasant taste in your mouth;\n\nupset stomach, belching; or\n\nmild skin rash."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

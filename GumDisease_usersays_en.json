@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ebb6c09f-9727-427f-a312-68eddefa56ba",
+    "data": [
+      {
+        "text": "i had a gum problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed91a162-2c77-4002-8ad3-fdb966851692",
+    "data": [
+      {
+        "text": "I had gum disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

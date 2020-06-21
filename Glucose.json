@@ -1,0 +1,31 @@
+{
+  "id": "ba1adb1d-6f9f-46a1-bbfb-59abc273ce2e",
+  "name": "Glucose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Glucose is used to treat very low blood sugar (hypoglycemia), most often in people with diabetes mellitus. glucose works by quickly increasing the amount of glucose in your blood.\n\nGlucose is also used to provide carbohydrate calories to a person who cannot eat because of illness, trauma, or other medical condition. Glucose is sometimes given to people who are sick from drinking too much alcohol."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

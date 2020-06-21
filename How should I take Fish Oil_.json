@@ -1,0 +1,31 @@
+{
+  "id": "6aa1079a-d2d5-4b0f-9abb-01070419fda5",
+  "name": "How should I take Fish Oil?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Use Fish Oil exactly as directed on the label, or as prescribed by your doctor. Do not use in larger or smaller amounts or for longer than recommended.  OR\n\nSwallow the Fish Oil capsule whole. Do not puncture or open the capsule. Fish Oil works best if you take it with food.OR\n\nTo be sure this medication is helping your condition, your blood may need to be tested often. Visit your doctor regularly. OR\n\nFish Oil is only part of a complete program of treatment that also includes diet, exercise, and weight control. Follow your diet, medication, and exercise routines very closely.OR\n\nStore Fish Oil at room temperature away from moisture and heat. Do not freeze."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

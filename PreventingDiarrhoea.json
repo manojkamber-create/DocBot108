@@ -1,0 +1,31 @@
+{
+  "id": "9c2bc962-c096-4485-8d97-fdd490229e3f",
+  "name": "PreventingDiarrhoea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Diarrhoea is often caused by an infection. You can reduce your risk by making sure you maintain high standards of hygiene.\n\nFor example, you should:\n\nwash your hands thoroughly with soap and warm water after going to the toilet and before eating or preparing food\nclean the toilet, including the handle and the seat, with disinfectant after each bout of diarrhoea\navoid sharing towels, flannels, cutlery, or utensils with other household members"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

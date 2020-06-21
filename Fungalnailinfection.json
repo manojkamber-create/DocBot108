@@ -1,0 +1,31 @@
+{
+  "id": "fb2dfd23-28ec-46d7-8700-6fea35e1868b",
+  "name": "Fungalnailinfection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Many people develop a fungal nail infection at some point in their life. It\u0027s not usually serious, but can be unpleasant and difficult to treat.\n\nThe infection develops slowly and causes the nail to become discolored, thickened and distorted."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

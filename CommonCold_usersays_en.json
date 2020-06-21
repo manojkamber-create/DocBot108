@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7688f80d-e541-418b-94fe-ff71d2e7e01b",
+    "data": [
+      {
+        "text": "What is Common Cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "43116536-5e35-427c-b075-3a0c002cd9ed",
+    "data": [
+      {
+        "text": "I had a Common Cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "7e2dfb45-2d8b-413a-8530-512a097bf3f7",
+  "name": "Ankle Problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ankle problems can cause a range of symptoms, including:\n\npain,\nswelling,\nstiffness,\nYou don\u0027t normally need to see a healthcare professional. New onset or flare-up of a longstanding ankle problem should begin to settle within 6 weeks."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

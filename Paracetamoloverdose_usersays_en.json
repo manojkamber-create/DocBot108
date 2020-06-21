@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f61b9fc9-8748-4486-97c3-26fbbacffc01",
+    "data": [
+      {
+        "text": "What is the overdose of paracetamol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1938ff75-97e9-471f-a3c4-4d3f35bb4a1c",
+    "data": [
+      {
+        "text": "Side effects of Paracetamol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "decb956b-3437-410e-9620-d34f3b32eab3",
+    "data": [
+      {
+        "text": "What if i was took overdose of Paracetamol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

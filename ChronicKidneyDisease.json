@@ -1,0 +1,31 @@
+{
+  "id": "00f73a6a-64f7-46cc-ad61-32b233fbed6b",
+  "name": "ChronicKidneyDisease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Chronic kidney disease (CKD) is a long-term condition where the kidneys do not work effectively.\n\nCKD does not usually cause symptoms until it reaches an advanced stage. It is usually detected at earlier stages by blood and urine tests."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

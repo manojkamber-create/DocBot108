@@ -1,0 +1,31 @@
+{
+  "id": "e3cfb400-f9bd-41c5-9267-73be6f83c87a",
+  "name": "Dehydration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Dehydration occurs when your body loses more fluid than you take in.\n\nWhen the normal water content of your body is reduced, it upsets the balance of minerals (salts and sugar) in your body, which affects the way it functions.\n\nWater makes up over two-thirds of the healthy human body. It lubricates the joints and eyes, aids digestion, flushes out waste and toxins, and keeps the skin healthy."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ab04a6af-11ce-40fa-a328-cef21f53e087",
+  "name": "I had a Alzheimer\u0027s disease?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Let me tell you , Alzheimer\u0027s disease is caused by parts of the brain shrinking (atrophy), which affects the structure and function of particular brain areas.\n\nThese reduce the effectiveness of healthy neurons (nerve cells that carry messages to and from the brain), gradually destroying them.\n\nOver time, this damage spreads to several areas of the brain. The first areas affected are responsible for memories."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

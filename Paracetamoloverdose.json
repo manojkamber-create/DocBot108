@@ -1,0 +1,31 @@
+{
+  "id": "5d4c3909-54b2-4f5b-9ba0-fad2ab04a80b",
+  "name": "Paracetamoloverdose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Paracetamol overdose is common and may occur accidentally or in the context of self-harm. Significant overdose can result in liver failure if not promptly treated with the antidote."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

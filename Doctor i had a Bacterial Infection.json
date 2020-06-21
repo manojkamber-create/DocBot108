@@ -1,0 +1,31 @@
+{
+  "id": "59d6da25-284f-4466-a952-2d9be9ddc1ca",
+  "name": "Doctor i had a Bacterial Infection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Bacterial skin infections can range from impetigo, folliculitis, furunculosis, erysipelas, cellulitis to\nrecurrent boils. All these are caused by either staphylococcus alone or together with\nstreptococcus but rarely streptococcus alone. There are other non-bacterial skin infections\ni.e.viral (warts, herpes simplex, herpes zoster and varicella, kaposis varicelliform eruption),\nfungal (candidiasis, tinea corporis, pityriasis versicolor), skin infestations (scabies and\npediculosis)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

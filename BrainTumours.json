@@ -1,0 +1,31 @@
+{
+  "id": "6dcdf869-b192-41c9-9f87-b088d6030553",
+  "name": "BrainTumours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A brain tumour is a growth of cells in the brain that multiplies in an abnormal, uncontrollable way. It can either be cancerous (malignant) or non-cancerous (benign).\n\nBrain tumours are graded from 1 to 4 according to their behaviour, such as how fast they grow and how likely they are to grow back after treatment."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

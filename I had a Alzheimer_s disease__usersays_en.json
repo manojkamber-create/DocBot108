@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2205f89c-e932-47ba-86d0-c3afcfeffc03",
+    "data": [
+      {
+        "text": "I had a Alzheimer\u0027s disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7eb9bbef-6a89-454a-986d-fa54baf8859b",
+    "data": [
+      {
+        "text": "Can you tell me about the Alzheimer\u0027s disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53c8f391-ba8b-46ba-b375-e718ae56f334",
+    "data": [
+      {
+        "text": "Alzheimer\u0027s disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3b81d9d-62e0-440c-a2ae-987ba949c21d",
+    "data": [
+      {
+        "text": "Doctor i had a  Alzheimer\u0027s disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

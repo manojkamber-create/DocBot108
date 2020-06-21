@@ -1,0 +1,31 @@
+{
+  "id": "51d9ed58-f4b8-44c8-b9da-65f2d53c21b5",
+  "name": "BipolarSymtoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Symptoms of bipolar disorder depend on which mood you\u0027re experiencing. Unlike simple mood swings, each extreme episode of bipolar disorder can last for several weeks (or even longer), and some people may not experience a \"normal\" mood very often."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

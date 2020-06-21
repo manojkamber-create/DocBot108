@@ -1,0 +1,31 @@
+{
+  "id": "b8f70093-a366-4e7a-9345-8bb9c99bee76",
+  "name": "SymtomsBladder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Less common symptoms of bladder cancer include:\n\n*a need to urinate on a more frequent basis\n*sudden urges to urinate\n*a burning sensation when passing urine\nIf bladder cancer reaches an advanced stage and begins to spread, symptoms can include:\n\n*pelvic pain \n*bone pain\n*unintentional weight loss \n*swelling of the legs"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

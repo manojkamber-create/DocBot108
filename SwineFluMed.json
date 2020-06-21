@@ -1,0 +1,31 @@
+{
+  "id": "57934b9c-bc2e-422c-bf8b-9e830df92acc",
+  "name": "SwineFluMed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Four antiviral agents, zanamivir (Relenza), oseltamivir (Tamiflu), peramivir (Rapivab), and baloxavir marboxil (Xofluza), have been reported to help prevent or reduce the effects of swine flu if taken within 48 hours of the onset of symptoms"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

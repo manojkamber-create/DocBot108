@@ -1,0 +1,31 @@
+{
+  "id": "b62ce9cb-d5f1-4069-9b28-da3d0185bb51",
+  "name": "Sneezingallergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sneezing can often be a symptom of an illness like the cold or flu. Usually, sneezing will go away once you heal. If you are sick, take good care of yourself! Stay hydrated, get lots of rest, and try some powerful cold remedies."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

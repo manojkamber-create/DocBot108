@@ -1,0 +1,40 @@
+{
+  "id": "b82ff8a5-0114-489f-89ce-69ec88698748",
+  "name": "Spineinjury",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "Motor traffic injuries and falls constitute the burden of most spine injuries. Paralysis may be\nassociated, often been brought by improper transfer of the patient to the hospital. C-spine\ninjury is always accompanied by traumatic brain injury."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Motor traffic injuries and falls constitute the burden of most spine injuries. Paralysis may be\nassociated, often been brought by improper transfer of the patient to the hospital. C-spine\ninjury is always accompanied by traumatic brain injury."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

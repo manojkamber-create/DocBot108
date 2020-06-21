@@ -1,0 +1,31 @@
+{
+  "id": "150343cd-1dfb-4c95-ab5c-93ea05aa11d6",
+  "name": "SwineFlu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Swine Influenza (swine flu) is a respiratory disease of pigs caused by type A influenza virus that regularly causes outbreaks of influenza in pigs. People do not normally get swine flu, but human infections can and do happen. The virus is contagious and can spread from human to human. The symptoms of swine flu in people are similar to the symptoms of regular human seasonal influenza and include fever, lethargy, lack of appetite and coughing. Some people with swine flu also have reported runny nose, sore throat, nausea, vomiting and diarrhea."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

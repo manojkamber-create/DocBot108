@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20505a57-0b87-40a3-baea-e76490250532",
+    "data": [
+      {
+        "text": "Medicine for Alzheimers disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a46a31e7-6bda-48c6-8162-97fcfa0df5d6",
+    "data": [
+      {
+        "text": "I had a alzheimers disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c118b7b-d864-4129-bf59-7e4348e3d020",
+    "data": [
+      {
+        "text": "Doctor can you tell me Preventing Alzheimer\u0027s disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

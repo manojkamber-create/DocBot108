@@ -1,0 +1,38 @@
+[
+  {
+    "id": "93c2891c-e42f-4a44-8a3a-a784adafdb4d",
+    "data": [
+      {
+        "text": "Chest infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d73139ea-32f5-4772-9171-02bc3c9bc7f1",
+    "data": [
+      {
+        "text": "I had a chest infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90b2f991-a183-4ef2-8f9e-8a1c87ac6502",
+    "data": [
+      {
+        "text": "What is Chest Infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

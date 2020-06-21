@@ -1,0 +1,31 @@
+{
+  "id": "3a9c29ab-ffba-4bcb-8313-a2310df0ef89",
+  "name": "Diarrhoea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Diarrhoea is passing looser or more frequent stools than is normal for you.\n\nIt affects most people from time to time and is usually nothing to worry about. However, it can be distressing and unpleasant until it passes, which normally takes a few days to a week."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

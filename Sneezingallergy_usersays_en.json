@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e44ef4ba-2803-440a-b7b0-4a00b0bf6836",
+    "data": [
+      {
+        "text": "Doctor i had a  Sneezing allergy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0e95542-bc9c-4ccc-b1e9-d19ea247e6d0",
+    "data": [
+      {
+        "text": "I had  a sneezing allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14f2fe56-2347-444e-96c6-a7fbe7b59542",
+    "data": [
+      {
+        "text": "What is Sneezing allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

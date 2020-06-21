@@ -1,0 +1,31 @@
+{
+  "id": "f4213625-9c87-4880-bffc-52be8fa5da31",
+  "name": "EbolaVirus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ebola virus disease is a serious illness that originated in Africa, where a large outbreak occurred in 2014-15. In June 2016, the outbreak was officially declared over."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0d4d352d-72ec-45ac-a1ad-362cd114a0be",
+  "name": "Bladder Cancer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Bladder cancer is where a growth of abnormal tissue, known as a tumour, develops in the bladder lining. In some cases, the tumour spreads into the surrounding muscles.\n\nThe most common symptom of bladder cancer is blood in your urine, which is usually painless."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

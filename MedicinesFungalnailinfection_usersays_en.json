@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1f4a8015-07bf-480e-9ec7-4e7b20d0aca2",
+    "data": [
+      {
+        "text": "Treatment for the Fungal Nail Infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ad5aeeb-7b58-4081-b176-029c80b63e6b",
+    "data": [
+      {
+        "text": "Medicines for Fungal Nail Infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "d70b9021-4750-4002-a96e-4d40e0b68702",
+  "name": "SYMTOMSALLERGY",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Reactions to the same allergen vary among individuals and depend on how the allergen entered the body (for example, being bitten by a mosquito causes a localized reaction on the skin whereas exposure to pollen may cause a tickly throat and itchy eyes).\n\nSymptoms may include:\n\nAbdominal pain, diarrhea, nausea, vomiting (food allergies)\nAreas of swelling and redness where a person has been stung or bitten (for insect bites/stings)\nCough, chest tightness, wheezing or shortness of breath\nItching of the nose, eyes or roof of the mouth\nA skin rash or hives, usually accompanied by body-wide itching\nRunny, stuffy nose\nSneezing\nSwelling of the lips, tongue, face, or throat\nTingling of the mouth\nWatery, red or swollen eyes (conjunctivitis)\nWheezing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

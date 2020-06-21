@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6babcd39-d428-4a88-94dd-142d2c150c2c",
+    "data": [
+      {
+        "text": "I had a Swine flu , Can you give me some medicine Doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19c46694-7ca6-4314-9855-252d4eea4966",
+    "data": [
+      {
+        "text": "Swine Flu Medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

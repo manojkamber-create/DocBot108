@@ -1,0 +1,40 @@
+{
+  "id": "01fc1f86-7836-4fa1-97cc-5e9151f07db6",
+  "name": "Allergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "speech": "Allergies are an overreaction by your immune system to a substance or food that is not considered harmful to most other people. Substances that cause allergies are called allergens or “triggers”."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Allergies are an overreaction by your immune system to a substance or food that is not considered harmful to most other people. Substances that cause allergies are called allergens or “triggers”."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

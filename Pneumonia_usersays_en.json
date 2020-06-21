@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bbf20504-6069-4998-9257-8f2def815da2",
+    "data": [
+      {
+        "text": "Doctor i had  a Pneumonia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fc68ea9-c2fd-4d58-83d1-187318a6e09b",
+    "data": [
+      {
+        "text": "I had a pneumonia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

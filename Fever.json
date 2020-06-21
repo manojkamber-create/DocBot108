@@ -1,0 +1,31 @@
+{
+  "id": "506c0e4b-f3dc-480f-a349-fc95188461a6",
+  "name": "Fever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Fever known also as pyrexia is a common medical sign of many conditions; characterized by\nan elevation of temperature above the normal range of 36.5-37.5o\nC\nDiagnosis/Symptoms\nFever is usually accompanied by sickness behavior such as:\n Depression\n Lethargy\n Anorexia\n Sleepiness\n Hyperalgesia\n Inability to concentrate\n Other symptoms include: feeling cold, increased muscle tone and shivering"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

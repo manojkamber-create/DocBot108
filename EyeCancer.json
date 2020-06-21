@@ -1,0 +1,31 @@
+{
+  "id": "60658462-4131-4e29-9ac9-5cb208ca22e9",
+  "name": "EyeCancer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Between 500 and 600 cases of eye cancer (ocular cancer) are diagnosed in the UK each year.\n\nThere are a number of different types of cancer that affect the eyes, including:\n\neye melanoma\nsquamous cell carcinoma\nlymphoma\nretinoblastoma – a childhood cancer\nCancer can also sometimes develop in the tissues surrounding your eyeball or spread to the eye from other parts of the body, such as the lungs or breasts."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

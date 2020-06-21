@@ -1,0 +1,31 @@
+{
+  "id": "054e91d6-5f01-4309-a578-f59ce35c85aa",
+  "name": "DepressionMed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sure, These are the medicine but kindly take according to your situation,Generic name: duloxetine systemic\n\nDrug class: serotonin-norepinephrine reuptake inhibitors"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

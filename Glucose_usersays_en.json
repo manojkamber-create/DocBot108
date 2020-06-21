@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8e0b2473-59f3-4658-aba5-7704146cd19e",
+    "data": [
+      {
+        "text": "Doctor may i know about the Glucose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a91d15b-9327-468e-ad43-d2bfd46b5e3b",
+    "data": [
+      {
+        "text": "What is Glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

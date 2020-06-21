@@ -1,0 +1,46 @@
+{
+  "id": "1216beef-6b3f-4268-b371-fb89da739030",
+  "name": "GoogleMap",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Please Enter for Directions",
+          "subtitle": "To use the Directions, Please Enter Your Location too",
+          "imageUrl": "https://www.expatica.com/app/uploads/sites/11/2014/05/Hospitals.jpg",
+          "buttons": [
+            {
+              "text": "Enter",
+              "postback": "https://www.google.nl/maps/@22.2824003,73.3577216,15z"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "62afaa73-5422-4504-b74f-6289f16be101",
+  "name": "Pneumonia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Pneumonia is the inflammation of the lung tissue. Pneumonia can either be primary (to the\ncausing organism) or secondary to pathological damage in the respiratory system. and medicines like Ampicillin 50 mg/kg I.V/I.M every 6 hours\nPlus\nA: Gentamicin (7.5 mg/kg I.V/I.M once a day) for 5 days;\nIf the child responds well, complete treatment at home or in a hospital with\nA: Amoxicillin (15 mg/kg three times a day)\nPlus\nA: Gentamicin 7.5 mg/kg I.M once daily for a further 5 days.\nAlternatively,\nB: Chloramphenicol (25 mg/kg I.M or I.V every 6 hours) until the child has\nimproved. Then continue orally 4 times a day for a total course of 10 days.\nIf the child does not improve within 48 hours, switch to\nA: Gentamicin (7.5mg/kg I.V/IM once a day)\nPlus\nA: Cloxacillin (50 mg/kg IV or IM every 6 hours), then continue Cloxacillin orally\n4 times a day for a total course of 3 weeks."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

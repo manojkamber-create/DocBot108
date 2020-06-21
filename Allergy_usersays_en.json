@@ -1,0 +1,26 @@
+[
+  {
+    "id": "54a1cc29-d0b3-4fd7-abe4-1eb4346d4f89",
+    "data": [
+      {
+        "text": "What is an Allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36914a95-ada9-4e88-9fb7-dd981a2370fc",
+    "data": [
+      {
+        "text": "Doctor can you tell me about the Allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

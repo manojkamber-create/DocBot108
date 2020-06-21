@@ -1,0 +1,31 @@
+{
+  "id": "aa8d8e96-9e5b-4959-9fce-6f2df7a59c82",
+  "name": "Preventingfungalnailinfection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can reduce your risk of developing a fungal nail infection by:\n\nkeeping your hands and feet clean and dry\nwearing well-fitting shoes made of natural materials and clean cotton socks – these will allow your feet to \"breathe\"\nclipping your nails to keep them short – don\u0027t share clippers or scissors with other people\nnot sharing towels and socks with other people, and ensure your towels are washed regularly\nnot walking around barefoot in public pools, showers, and locker rooms – special shower shoes are available to protect your feet\nreplacing old footwear that could be contaminated with fungi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

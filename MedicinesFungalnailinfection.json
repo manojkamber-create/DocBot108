@@ -1,0 +1,31 @@
+{
+  "id": "1980009a-3680-4af3-a35e-e559f7d18d2e",
+  "name": "MedicinesFungalnailinfection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "antifungal tablets – tablets taken once or twice a day for several months\nantifungal nail paints – special paints applied directly to the nail over several months\nnail softening kits – where a paste is used to soften infected parts of the nail, before they\u0027re removed with a scraping device"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

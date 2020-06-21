@@ -1,0 +1,31 @@
+[
+  {
+    "id": "871a9f8e-652f-4aa3-ba38-5fa5aef5a8d9",
+    "data": [
+      {
+        "text": "May i know the best place in Vadodara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0036fc82-7dab-45f1-80f2-48111c4ec61f",
+    "data": [
+      {
+        "text": "May i know the Hosiptal in ",
+        "userDefined": false
+      },
+      {
+        "text": "Baroda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

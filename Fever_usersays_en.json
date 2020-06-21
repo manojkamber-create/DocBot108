@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5a8bfb96-49d8-43d3-a875-2ba3e69583cb",
+    "data": [
+      {
+        "text": "Doctor i had a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b42a4128-b777-4cc7-b79b-96664e25a037",
+    "data": [
+      {
+        "text": "I had a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

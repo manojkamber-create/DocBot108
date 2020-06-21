@@ -1,0 +1,31 @@
+{
+  "id": "2624dd9e-cdc5-4180-be08-67664098fa71",
+  "name": "MedicinesBipolar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Anticonvulsant medicines include:\n\nvalproate \ncarbamazepine\nlamotrigine\nThese medicines are sometimes used to treat episodes of mania. They\u0027re also long-term mood stabilisers."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

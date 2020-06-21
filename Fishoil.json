@@ -1,0 +1,31 @@
+{
+  "id": "3156ce89-3801-4edc-baa5-66fcb1412975",
+  "name": "Fishoil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Fish Oil capsules contain omega-3 polyunsaturated fatty acids. Omega-3 polyunsaturated fatty acids are found in oils from certain types of fish, vegetables, and other plant sources. These fatty acids are not made by the body and must be consumed in the diet. Omega-3 polyunsaturated fatty acids work by lowering the body\u0027s production of triglycerides. High levels of triglycerides can lead to coronary artery disease, heart disease, and stroke."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

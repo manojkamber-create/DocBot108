@@ -1,0 +1,31 @@
+{
+  "id": "6d01debf-02a8-462c-a5b7-77491f37dbc3",
+  "name": "GumDisease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Gum disease is a very common condition where the gums become swollen, sore or infected.\n\nMost adults in the UK have gum disease to some degree and most people experience it at least once. It\u0027s much less common in children.\n\nIf you have gum disease, your gums may bleed when you brush your teeth and you may have bad breath. This early stage of gum disease is known as gingivitis.\n\nIf gingivitis isn\u0027t treated, a condition called periodontitis can develop. This affects more tissues that support teeth and hold them in place."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

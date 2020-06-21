@@ -1,0 +1,31 @@
+{
+  "id": "dbe9aba0-31ef-45b9-ba04-dc4c6483852f",
+  "name": "Causesallergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "When you have allergies, your immune system mistakes normally harmless substances for dangerous invaders and produces antibodies to fight them. These antibodies release chemicals, such as histamine, that cause allergy symptoms. \n\nThe most common allergens are:\n\nAnimal fur or hair (such as that from cats, dogs, horses, or rabbits)\nDust mites\nFood, especially cow’s milk, eggs, peanuts, seafood, soy, tree nuts (almonds, Brazil nuts, cashews) and wheat\nInsect stings\nLatex\nMedicines\nMould\nPollen.\nAn allergen for one person may not cause any problems in another person. There is a link between allergy and asthma."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

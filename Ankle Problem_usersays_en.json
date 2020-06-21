@@ -1,0 +1,26 @@
+[
+  {
+    "id": "947dd474-444c-470e-b44f-bfc59dcb0c09",
+    "data": [
+      {
+        "text": "Doctor can you help me I had a Ankle Problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef3d61d5-9430-4a17-8a2f-2ab880d3a2b0",
+    "data": [
+      {
+        "text": "I had a ankle problem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

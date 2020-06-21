@@ -1,0 +1,31 @@
+{
+  "id": "7a345976-d0b6-40cb-b60d-47d5d9bece46",
+  "name": "CalicumCarbonate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Calcium is a mineral that is found naturally in foods. Calcium is necessary for many normal functions of the body, especially bone formation and maintenance.\n\nCalcium carbonate is used to prevent or to treat a calcium deficiency."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

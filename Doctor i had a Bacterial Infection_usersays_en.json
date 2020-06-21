@@ -1,0 +1,38 @@
+[
+  {
+    "id": "560593f4-fc7b-4e49-b2b8-38fb807fced6",
+    "data": [
+      {
+        "text": "Doctor i had a Bacterial Infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d0cab15-8136-436e-9ae2-20e11329381b",
+    "data": [
+      {
+        "text": "I had  a Bacterial Infection?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e5fb536-a1be-451a-8985-7773281350ea",
+    "data": [
+      {
+        "text": "What is Bacterial Infection?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

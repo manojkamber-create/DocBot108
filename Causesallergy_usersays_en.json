@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b2581e71-926d-4e36-8b5a-883a8efbd36b",
+    "data": [
+      {
+        "text": "What",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd98b7c3-3f38-477d-b80f-4e31f05c5ec3",
+    "data": [
+      {
+        "text": "Doctor may i know the causes of Allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c3347b1-6e00-47ea-b303-7a79d2bf6227",
+    "data": [
+      {
+        "text": "What causes allergy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

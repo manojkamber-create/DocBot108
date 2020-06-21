@@ -1,0 +1,26 @@
+[
+  {
+    "id": "78b83451-7246-45a5-afe9-9478ab7c8b54",
+    "data": [
+      {
+        "text": "i had a spine fracture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7b8f150-0297-4f86-b0c3-8f2ad4f8a5f1",
+    "data": [
+      {
+        "text": "I had a Spine Injury",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

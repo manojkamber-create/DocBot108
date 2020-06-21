@@ -1,0 +1,31 @@
+{
+  "id": "cd5614a9-caf5-4db1-bca9-1d05b3666a7a",
+  "name": "Address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sure there are one be the best  Hos[ital Janvi Multispeciality Hospital Address:: First Floor, Silver Square, Harni Halol Road, Harni, Vadodara - 390022, Near Gada Circle. Contact Number +919152385550."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

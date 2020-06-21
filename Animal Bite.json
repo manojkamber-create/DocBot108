@@ -1,0 +1,31 @@
+{
+  "id": "0175d3eb-5f60-4562-8417-6c6274fc6f72",
+  "name": "Animal Bite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Animals that bite man include both wild and domesticated ones. Thus lion, tiger, leopard,\nhyena, bear, elephant, hippopotamus, buffalo, wolf and wild pig are examples of the wild\nanimals that have bitten man. Others are fish, crocodiles and dogs. Clinical features of these\nbites arise from the pathology inflicted by teeth, tusks, claws and horns. They produce\nlacerations, penetrating and crushing injuries. Severe facial and eye innuries are common and\npneumothorax, hemothorax, bowel perofration and compound fractures have occurred."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

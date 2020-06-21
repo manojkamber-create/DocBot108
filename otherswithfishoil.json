@@ -1,0 +1,31 @@
+{
+  "id": "64c48abd-3c43-4a4c-a1c2-592dfc5206f2",
+  "name": "otherswithfishoil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tell your doctor about all other medicines you use, especially:\n\nestrogens (birth control pills or hormone replacement);\n\na blood thinner such as warfarin (Coumadin, Jantoven);\n\na beta-blocker such as atenolol (Tenormin, Tenoretic), carvedilol (Coreg), labetalol (Normodyne, Trandate), metoprolol (Dutoprol, Lopressor, Toprol), nadolol (Corgard), propranolol (Inderal, InnoPran), sotalol (Betapace), and others; or\n\na diuretic (water pill) such as chlorothiazide (Diuril), hydrochlorothiazide (HydroDIURIL, Microzide), chlorthalidone (Hygroton, Thalitone), indapamide (Lozol), metolazone (Mykrox, Zaroxolyn), and others."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

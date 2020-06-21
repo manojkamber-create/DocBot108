@@ -1,0 +1,31 @@
+{
+  "id": "e6ae8ae8-68d3-49f4-b218-4926843636c4",
+  "name": "BipolarDisease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Bipolar disorder, formerly known as manic depression, is a condition that affects your moods, which can swing from one extreme to another.\n\nPeople with bipolar disorder have periods or episodes of:\n\ndepression – feeling very low and lethargic\nmania – feeling very high and overactive (less severe mania is known as hypomania)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

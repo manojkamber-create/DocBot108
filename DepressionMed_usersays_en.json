@@ -1,0 +1,38 @@
+[
+  {
+    "id": "97ec56b8-6acc-4fca-9872-64af1f7e1f55",
+    "data": [
+      {
+        "text": "Medicine for Depression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76f418b1-1ce2-44fe-977c-d1c517c3ff64",
+    "data": [
+      {
+        "text": "Is there any medicine available to prevent the Depression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8324be34-8441-4cbe-8651-ae32748af2e5",
+    "data": [
+      {
+        "text": "Is there any medicine available for Depression Doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

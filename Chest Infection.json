@@ -1,0 +1,31 @@
+{
+  "id": "62bc3014-de07-479e-a56b-99218d52f70e",
+  "name": "Chest Infection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Chest infections are common, especially after a cold or flu during autumn and winter.\n\nAlthough most are mild and get better on their own, some can be serious or even life-threatening."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

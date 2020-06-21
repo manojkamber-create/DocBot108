@@ -1,0 +1,31 @@
+{
+  "id": "253263fb-a82e-41d9-b6ea-c99f209a5cf8",
+  "name": "preventAlzheimers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sure , By stopping smoking,\nnot drinking large amounts of alcohol,\neating a healthy, balanced diet, including at least five portions of fruit and vegetables every day,\nexercising for at least 150 minutes (2 hours and 30 minutes) every week by doing moderate-intensity aerobic activity (such as cycling or fast walking) – this will improve both your physical and mental health,\nmake sure your blood pressure is checked and controlled through regular health tests,\nif you have diabetes, make sure you keep to the diet and take your medication."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

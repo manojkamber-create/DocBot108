@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e2cd5cae-c173-4c07-9ae3-42a65be2a1f6",
+    "data": [
+      {
+        "text": "Chronic Kidney Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af9af6c8-406a-46a1-aa44-29263de0ba91",
+    "data": [
+      {
+        "text": "What is Chronic Kidney Disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "405611d0-a99a-42be-8f79-9985d36423cd",
+    "data": [
+      {
+        "text": "I had a Chronic Kidney Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

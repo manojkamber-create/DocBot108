@@ -1,0 +1,31 @@
+{
+  "id": "1eaf74c4-3086-4209-8aca-1a0bd8febed1",
+  "name": "cough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Clinical features: Cough is a symptom produced by inflammatory viscid secretions or obstruction\nof the tracheobronchial system. It may be dry or productive sputum. Cough may be\nparoxysmal, hacking, explosive, and harsh (brassy)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

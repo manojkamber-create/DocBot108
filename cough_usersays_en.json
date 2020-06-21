@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6cd26870-fe10-42ca-987e-55693a47d1d0",
+    "data": [
+      {
+        "text": "Doctor i had a cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c4c1ced-149f-47d2-aea0-38bef5dd3ebe",
+    "data": [
+      {
+        "text": "i had a cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
